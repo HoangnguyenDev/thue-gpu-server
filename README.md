@@ -1,5 +1,7 @@
 ## Giới Thiệu: Giải Phóng Tiềm Năng của GPU
 Trong thế giới hướng dữ liệu ngày nay, nhu cầu về tài nguyên tính toán mạnh mẽ ngày càng gia tăng. Các máy chủ CPU truyền thống thường gặp khó khăn trong việc xử lý các tác vụ phức tạp liên quan đến trí tuệ nhân tạo, học máy, mô phỏng khoa học và kết xuất đồ họa chất lượng cao. Đây là lúc máy chủ GPU phát huy tác dụng, mang đến một bước nhảy vọt về sức mạnh xử lý và khả năng tính toán song song.
+![image](https://github.com/HoangnguyenDev/thue-gpu-server/assets/10234503/8a9e67ae-737e-4022-9fa1-7d120c00a06c)
+
 
 ### Máy Chủ GPU là gì?
 
@@ -41,6 +43,9 @@ Việc lựa chọn máy chủ GPU tối ưu yêu cầu đánh giá cẩn thận
 3.	Thông Số Kỹ Thuật Máy Chủ: Cân nhắc phần cứng hỗ trợ, chẳng hạn như CPU, RAM, bộ nhớ và băng thông mạng. Một cấu hình cân bằng là rất quan trọng để tránh tắc nghẽn và đảm bảo hiệu suất GPU tối ưu.
 4.	Mô Hình Giá: Các nhà cung cấp máy chủ GPU cung cấp nhiều cấu trúc giá khác nhau, bao gồm gói hàng giờ, hàng tháng hoặc hàng năm. Chọn một gói phù hợp với ngân sách và mô hình sử dụng của bạn.
 5.	Đám Mây so với Tại Chỗ: Máy chủ GPU dựa trên đám mây mang lại tính linh hoạt và khả năng mở rộng, trong khi các giải pháp tại chỗ cung cấp khả năng kiểm soát và tùy chỉnh nhiều hơn. Đánh giá ưu và nhược điểm của từng tùy chọn dựa trên nhu cầu cụ thể và cơ sở hạ tầng CNTT của bạn.
+
+![image](https://github.com/HoangnguyenDev/thue-gpu-server/assets/10234503/d74ef1bf-5346-4f20-ab51-8f6f89e85940)
+
 
 ## Các Nhà Cung Cấp Máy Chủ GPU Hàng Đầu: Điều Hướng Thị Trường
 
