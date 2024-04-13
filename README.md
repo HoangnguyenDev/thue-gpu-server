@@ -26,6 +26,9 @@ Các ứng dụng của máy chủ GPU rất rộng lớn và phục vụ cho nh
 4.	Các Kỹ Sư & Nhà Khoa Học: Thực hiện các phép tính và mô phỏng phức tạp cho các ngành khoa học và kỹ thuật khác nhau.
 5.	Game Thủ & Người Sáng Tạo Nội Dung: Tận hưởng trải nghiệm chơi game mượt mà, hiệu suất cao và phát trực tuyến nội dung mà không bị lag.
 
+![image](https://github.com/HoangnguyenDev/thue-gpu-server/assets/10234503/9bb2f562-64f3-4366-94d5-72a9d1bf51e6)
+
+
 ## Máy Chủ GPU Trong Hoạt Động: Vô Số Ứng Dụng
 
 Tính linh hoạt của máy chủ GPU khiến chúng trở nên vô giá trong nhiều ngành công nghiệp và ứng dụng. Hãy cùng khám phá một số trường hợp sử dụng chính:
